@@ -2,10 +2,9 @@
   "name": "dessert-cart",
   "version": "1.0.0",
   "scripts": {
-    "build": "npx tsc",
-    "watch": "tsc -w"
+    "build": "tsc"
   },
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^5.8.3"
   }
 }
